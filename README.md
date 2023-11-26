@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nexterbyby
-- 👀 I’m interested in Anime.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in Gaming and Anime.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 Reach me per WatsApp, if you have my number.
 
